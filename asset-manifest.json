@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//vivek52940.github.io/Todo/static/css/main.e6c13ad2.css",
+    "main.js": "//vivek52940.github.io/Todo/static/js/main.1b02aa62.js",
+    "static/js/787.2843ca88.chunk.js": "//vivek52940.github.io/Todo/static/js/787.2843ca88.chunk.js",
+    "index.html": "//vivek52940.github.io/Todo/index.html",
+    "main.e6c13ad2.css.map": "//vivek52940.github.io/Todo/static/css/main.e6c13ad2.css.map",
+    "main.1b02aa62.js.map": "//vivek52940.github.io/Todo/static/js/main.1b02aa62.js.map",
+    "787.2843ca88.chunk.js.map": "//vivek52940.github.io/Todo/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1b02aa62.js"
+  ]
+}
